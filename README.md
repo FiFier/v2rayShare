@@ -1,2 +1,32 @@
-# v2rayShare
-免费VPN、免费翻墙、免费订阅链接、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan/clash节点、蓝灯、谷歌商店、翻墙梯子
+## ⏰更新时间：2022年5月22日 23:30
+
+以下提供的节点都经过测试，并每日更新，请放心使用！
+
+分享不易，兄弟们随手 Star 哦！
+
+## 🚀免费订阅链接
+
+### v2ray订阅链接
+
+https://v2rayshare.com/dy/20220520.txt
+
+### clash订阅链接
+
+https://v2rayshare.com/dy/20220520.yaml
+
+### 官网优先更新
+
+https://v2rayshare.com/
+
+## 🎖️付费VPN（不用担心失效，关键时刻不掉链子）
+
+工薪阶层：每月10元钱，开发妥妥的
+
+### [>>易云](https://yiyun.io/#/register?code=zW1ijHlm)
+
+
+## 工具
+
+ 客户端 | Windows | Mac | Android | iOS 
+ :-: | :-: | :-:| :-:| :-:
+ 下载地址 | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [v2rayU](https://github.com/yanue/V2rayU/releases/download/3.2.0/V2rayU.dmg) / [clashX](https://github.com/yichengchen/clashX/releases) | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) 
