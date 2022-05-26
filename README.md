@@ -1,4 +1,4 @@
-##⏰更新时间：2022年5月25日11:36
+##⏰更新时间：2022年5月26日11:39
 
 以下提供的节点都经过测试，并每日更新，请放心使用！
 
@@ -8,11 +8,11 @@
 
 ### v2ray订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/05/20200525.txt
+https://v2rayshare.com/wp-content/uploads/2022/05/20200526.yaml
 
 ### clash订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/05/20200525.yaml
+https://v2rayshare.com/wp-content/uploads/2022/05/20220526.txt
 
 ### 官网优先更新
 
