@@ -8,11 +8,11 @@
 
 ### v2ray订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/05/20200526.yaml
+https://v2rayshare.com/wp-content/uploads/2022/05/20220526.txt
 
 ### clash订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/05/20220526.txt
+https://v2rayshare.com/wp-content/uploads/2022/05/20200526.yaml
 
 ### 官网优先更新
 
