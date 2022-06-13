@@ -12,7 +12,7 @@ https://t.me/v2rayShareGroup
 
 ### v2ray订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/06/20220613.txt
+https://v2rayshare.com/wp-content/uploads/2022/06/20220613.txt 
 
 ### clash订阅链接
 
