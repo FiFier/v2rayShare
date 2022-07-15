@@ -12,11 +12,11 @@ https://t.me/v2rayShareGroup
 
 ### v2ray订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/07/20220714.txt
+https://v2rayshare.com/wp-content/uploads/2022/07/20220715.txt
 
 ### clash订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/07/20220714.yaml
+https://v2rayshare.com/wp-content/uploads/2022/07/20220715.yaml
 
 ### 官网优先更新
 
