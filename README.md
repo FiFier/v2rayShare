@@ -1,4 +1,4 @@
-## ⏰更新时间：2022年8月12日 10:20
+## ⏰更新时间：2022年8月13日 09:45
 
 以下提供的节点都经过测试，并每日更新，请放心使用！
 
@@ -14,11 +14,11 @@ https://t.me/v2rayShareGroup
 
 ### v2ray订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/08/20220812.txt
+https://v2rayshare.com/wp-content/uploads/2022/08/20220813.txt
 
 ### clash订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/08/20220812.yaml
+https://v2rayshare.com/wp-content/uploads/2022/08/20220813.yaml
 
 ### 官网优先更新
 
