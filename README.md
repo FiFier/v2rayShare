@@ -2,7 +2,7 @@
 
 以下提供的节点都经过测试，并每日更新，请放心使用！
 
-50个节点，最高速度10M/S !
+50个节点，最高速度9.8M/S !
 
 分享不易，兄弟们随手 Star 哦！
 
@@ -14,11 +14,11 @@ https://t.me/v2rayShareGroup
 
 ### v2ray订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/08/20220825.txt
+https://v2rayshare.com/wp-content/uploads/2022/08/20220826.txt
 
 ### clash订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2022/08/20220825.yaml
+https://v2rayshare.com/wp-content/uploads/2022/08/20220826.yaml
 
 ### 官网优先更新
 
