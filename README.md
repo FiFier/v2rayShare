@@ -6,9 +6,9 @@
 
 分享不易，兄弟们随手 Star 哦！
 
-## 👨‍👩‍👧‍👦电报群
+## 👨‍👩‍👧‍👦电报频道
 
-https://t.me/v2rayShareGroup
+https://t.me/v2rayShare
 
 ## 🚀免费订阅链接
 
