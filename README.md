@@ -28,7 +28,7 @@ https://v2rayshare.com/
 
 工薪阶层：每月10元钱，开发妥妥的
 
-### [>>易云](https://yiyun.io/#/register?code=lKxkpyUX)
+### [>>轻云](https://qingyun.io/#/register?code=lKxkpyUX)
 
 
 ## 工具
