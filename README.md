@@ -1,8 +1,8 @@
-## ⏰更新时间：2023年3月10日
+## ⏰更新时间：2023年3月11日
 
 以下提供的节点都经过测试，并每日更新，请放心使用！
 
-50个节点，最高速度16.4M/s！
+50个节点，最高速度11.79M/s！
 
 分享不易，兄弟们随手 Star 哦！
 
@@ -14,11 +14,11 @@ https://t.me/v2rayShare
 
 ### v2ray订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2023/03/20230310.txt
+https://v2rayshare.com/wp-content/uploads/2023/03/20230311.txt
 
 ### clash订阅链接
 
-https://v2rayshare.com/wp-content/uploads/2023/03/20230310.yaml
+https://v2rayshare.com/wp-content/uploads/2023/03/20230311.yaml
 
 ### 官网优先更新
 
